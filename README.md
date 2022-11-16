@@ -1,4 +1,4 @@
-# Single-layer-perceptron
+# SingleLayerPerceptron
 
 ## Introduction
 Assuming w1=0.2 w2=0.4 theta=0.3 epsilon=0.4 use a single layer perceptron to complete the learning process of logic or computation.
